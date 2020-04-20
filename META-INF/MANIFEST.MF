@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jl1.0.1.jar rt.jar
+Main-Class: main.MainWindow
+
